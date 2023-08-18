@@ -32,9 +32,9 @@ class Cow extends Animal {
 }
 
 // Creating instances of animal classes
-$dog = new Dog("Buddy");
-$cat = new Cat("Whiskers");
-$cow = new Cow("Molly");
+$dog = new Dog("Lallu");
+$cat = new Cat("Tom");
+$cow = new Cow("Kala");
 
 // Demonstrating polymorphism
 $animals = [$dog, $cat, $cow];
