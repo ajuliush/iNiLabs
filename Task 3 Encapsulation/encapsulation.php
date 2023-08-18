@@ -33,7 +33,7 @@ class Employee {
 }
 
 // Create an employee instance
-$employee = new Employee("Mr Komol", 30, 50000);
+$employee = new Employee("Mr Karim", 30, 50000);
 
 // Get employee information
 echo "Name: " . $employee->getName() . "<br>";
