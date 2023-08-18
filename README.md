@@ -4,7 +4,7 @@
 -   `cd iNiLabs/`
 -   `composer install`
 -   `cp .env.example .env`
--   `update .env` and set your database credentials`
+-   `update .env and set your database credentials`
 -   `php artisan key:generate`
 -   `npm install`
 -   `npm run dev`
