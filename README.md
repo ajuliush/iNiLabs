@@ -1,6 +1,6 @@
 ## Installation
 
--   `https://github.com/itminanbiva078/hrms_software.git`
+-   
 -   `cd iNiLabs/`
 -   `composer install`
 -   `cp .env.example .env`
