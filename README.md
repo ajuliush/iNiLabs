@@ -1,6 +1,6 @@
 ## Installation
 
--   
+-   `https://github.com/ajuliush/iNiLabs.git`
 -   `cd iNiLabs/`
 -   `composer install`
 -   `cp .env.example .env`
